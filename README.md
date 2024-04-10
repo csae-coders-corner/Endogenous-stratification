@@ -10,6 +10,7 @@ In order to avoid overfitting, the following approaches can be used:
 Abadie, Chingos & West (2018) illustrate the use of these approaches, referred to as “endogenous stratification” using data from the National JTPA Study, a large experimental evaluation of an employment and training program. With overfitting, treatment effects are larger and significant in the ‘low’ group while the effects are larger and significant in the ‘high’ group when estimated using either LOO or RSS (Table 1).
 
 Table 1: Reproduced from Abadie, Chingos & West (2018)
+
 ![Stratification 1](https://github.com/csae-coders-corner/Endogenous-stratification/assets/148211163/76e032c5-cfa2-4552-b978-9b67c47ad664)
 
 Endogenous stratification is particularly helpful when there is a clear outcome variable of interest and there are a set of covariates that can be used for heterogeneity analysis. 
@@ -43,4 +44,5 @@ Abadie, A., Chingos, M. M., andWest, M. R. (2018). Endogenous stratification in 
 Gelman, A. and Park, D. K. (2009). Splitting a predictor at the upper quarter or third and the lower quarter or third. The American Statistician, 63(1):1-8.
  
 
-
+**Mahreen Mahmud, Postdoctoral Research Fellow at the Mind and Behaviour Research Group, 
+Blavatnik School of Government, Oxford, 17 February 2020**
