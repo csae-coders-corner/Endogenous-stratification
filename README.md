@@ -1,3 +1,6 @@
+
+![CC Graphics 2024_Endogenousstratification](https://github.com/csae-coders-corner/Endogenous-stratification/assets/148211163/f61c5f04-652a-4058-9736-3790cad6e351)
+
 # Endogenous-stratification
 
 When we analyse the results of an experiment, we are often interested in understanding what the treatments effects are on sub-groups. This type of sub-group analysis is usually estimated using in-sample information on the relationship between the outcome of interest and the covariates in the control group to predict outcome for all groups without treatment. However, this procedure generates substantial bias due to overfitting. This results in a negative bias in the control observations in the lower interval, creating a positive bias in the estimated treatment effect for the group and the reverse problem in the upper interval. 
